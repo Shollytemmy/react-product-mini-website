@@ -1,12 +1,32 @@
-
+import {Routes, Route} from 'react-router-dom'
+// pages
+import { Navbar } from './components/Navbar';
+import { About } from './pages/About';
+import { Contact } from './pages/Contact';
+import { Error404 } from './pages/Error404';
+import { Home } from './pages/Home';
+import { Product } from './pages/Products';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Products Website</h1>
+    <>
+     <Navbar />
+     <div className="container">
+     
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='about' element={<About />} />
+        <Route path='contact' element={<Contact />} />
+        <Route path='products' element={<Product />} />
+        <Route path='*' element={<Error404 />} />
+      </Routes>
+
+     
 
     </div>
+    </>
+    
   );
 }
 
