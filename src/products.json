@@ -1,0 +1,144 @@
+[
+    {
+        "_id": 1,
+        "image": "https://m.media-amazon.com/images/I/61u1TgEUldL._AC_SL1500_.jpg",
+        "brand": "supacool",
+        "desc": "SUPACOOL Lightweight Casual Laptop Backpack with USB Charging Port For for Men and Women, School Bookbag for College (Full Black)",
+        "rating": "5.7",
+        "amount": "2,816",
+        "disc": "-19%",
+        "currency": "NGN",
+        "list_price": "NGN15,911.46"
+    
+    },
+
+
+    {
+        "_id": 2,
+        "image": "https://m.media-amazon.com/images/I/71U4cm4UVTL._AC_SL1500_.jpg",
+        "brand": "ambor store",
+        "desc": "Travel Laptop Backpack,17.3 inch Anti Theft Business Laptop Backpack with USB Charging Port and Headphone Interface , College School Backpack for Men & Women,Black",
+        "rating": "3.7",
+        "amount": "2,816",
+        "disc": "-19%",
+        "currency": "NGN",
+        "list_price": "NGN15,911.46"
+    
+    },
+
+
+    {
+        "_id": 3,
+        "image": "https://m.media-amazon.com/images/I/71U4cm4UVTL._AC_SL1500_.jpg",
+        "brand": "jiaYou",
+        "desc": "Teenage Girls' Backpack Middle School Students Bookbag Outdoor Daypack with USB Charge Port (21 Liters, Black Pink)",
+        "rating": "53.7",
+        "amount": "2,816",
+        "disc": "-19%",
+        "currency": "NGN",
+        "list_price": "NGN15,911.46"
+    
+    },
+
+
+    {
+        "_id": 4,
+        "image": "https://m.media-amazon.com/images/I/71u1Tjl-eeL._AC_SL1500_.jpg",
+        "desc": "Windows 11 Laptop, BiTECOOL 15.6 inches Full HD Clear Display, Intel Celeron J4005 Dual Core, 6GB RAM and 120GB SSD Laptop Computer, 2.4G WiFi, BT4.0, Long Lasting Battery, Mic",
+        "rating": "19",
+        "amount": "123,348",
+        "disc": "-30%",
+        "currency": "NGN",
+        "list_price": "NGN176,401.03",
+        "accessories":[
+            {
+                "brand": "bitecool",
+                "series": "MosBook",
+                "screen_size": "15.6 Inches",
+                "color": "grey",
+                "hdd": "120gb",
+                "cpu": "celeron",
+                "os": "window 11",
+                "special": "hd audio",
+                "card": "integrated"
+            }
+        ],
+
+        "about": [
+            "Powerful Intel Dual Core Windows Laptop- Powered by 10th Generation Intel Gemini Lake Celeron J4005 2 Cores 2 Threads, burst frequency up to 2.7GHz and built-in Intel UHD Graphics 600, support 4K@60Hz.", 
+            "Large Memory and Storage Space Pc Laptops - Built-in 6GB LPDDR4 Memory for Smooth Operating and 120GB Solid State Drive Storage which can expandable to 1TB, can satisfy most people's requirements, also, it got Single Band 2.4G Wifi and Bluetooth 4.0 for wireless connection."
+        ]
+    
+    },
+
+    {
+        "_id": 5,
+        "image": "https://m.media-amazon.com/images/I/61Ki6OqhJKL._AC_SL1500_.jpg",
+        "desc": "CHUWI HeroBook Air 11.6 Windows 10 Laptop, Intel Celeron N4020 Processor, 4GB LPDDR4 RAM, 128GB SSD, HD Display, WiFi, Webcam, Ultra Slim and Light Notebook PC for School Student",
+        "rating": "19",
+        "amount": "79,396",
+        "disc": "-30%",
+        "currency": "NGN",
+        "list_price": "NGN176,401.03",
+        "accessories":[
+            {
+                "brand": "CHUWI",
+                "series": "HB A",
+                "screen_size": "11.6 Inches",
+                "color": "black",
+                "hdd": "128gb",
+                "cpu": "Celeron N4020",
+                "os": "window 11",
+                "special": "hd audio",
+                "card": "integrated"
+            }
+        ],
+
+        "about": [
+            "Powered by Intel Celeron Processor N4020 @ 1.10GHz (2 Cores, 4M Cache, up to 2.80 GHz)", 
+
+            "Thin and Portable: 0.67” thin and weighs only 2 lbs; With 36.48Wh (7.6V/4800mAh) battery; HD camera ideal for home, student, professionals, online class remote learning"
+        ]
+    
+    },
+
+    {
+        "_id": 6,
+        "image": "https://m.media-amazon.com/images/I/61Ki6OqhJKL._AC_SL1500_.jpg",
+        "desc": "2022 Newest Lenovo Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+        "rating": "19",
+        "amount": "79,396",
+        "disc": "-30%",
+        "currency": "NGN",
+        "list_price": "NGN176,401.03",
+        "accessories":[
+            {
+                "brand": "lenovo",
+                "series": "HB A",
+                "screen_size": "11.6 Inches",
+                "color": "black",
+                "hdd": "128gb",
+                "cpu": "Celeron N4020",
+                "os": "window 11",
+                "special": "hd audio",
+                "card": "integrated",
+                "ram": "8gb"
+            }
+        ],
+
+        "about": [
+            "Powered by Intel Celeron Processor N4020 @ 1.10GHz (2 Cores, 4M Cache, up to 2.80 GHz)", 
+
+            "Thin and Portable: 0.67” thin and weighs only 2 lbs; With 36.48Wh (7.6V/4800mAh) battery; HD camera ideal for home, student, professionals, online class remote learning"
+        ]
+    
+    }
+
+    
+
+
+]
+
+
+
+
