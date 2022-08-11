@@ -8,6 +8,7 @@ import { Error404 } from './pages/Error404';
 import { Home } from './pages/Home';
 import { Product } from './pages/Products';
 import './App.css';
+import { SingleProducts } from './pages/SingleProducts';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <Route path='about' element={<About />} />
         <Route path='contact' element={<Contact />} />
         <Route path='products' element={<Product />} />
+        <Route path='singleProduct/:prodID' element={<SingleProducts />} />
         <Route path='*' element={<Error404 />} />
       </Routes>
 

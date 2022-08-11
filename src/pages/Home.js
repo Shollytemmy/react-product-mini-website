@@ -14,7 +14,7 @@ export const Home  = ({products}) => {
             image = {product.image}
             name = {product.name}
             rating = {product.rating}
-            
+            desc = {product.desc}
 
              />
           )
