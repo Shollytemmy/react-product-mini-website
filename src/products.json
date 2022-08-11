@@ -9,7 +9,8 @@
         "disc": "-19%",
         "currency": "NGN",
         "list_price": "NGN15,911.46",
-        "name": "bag"
+        "name": "bag",
+        "reviews": "79"
     
     },
 
@@ -24,7 +25,8 @@
         "disc": "-19%",
         "currency": "NGN",
         "list_price": "NGN15,911.46",
-        "name": "bag"
+        "name": "bag",
+        "reviews": "90"
     
     },
 
@@ -39,7 +41,8 @@
         "disc": "-19%",
         "currency": "NGN",
         "list_price": "NGN15,911.46",
-        "name": "bag"
+        "name": "bag",
+        "reviews": "79"
     
     },
 
@@ -54,6 +57,7 @@
         "currency": "NGN",
         "list_price": "NGN176,401.03",
         "name": "laptop",
+        "reviews": "99",
         "accessories":[
             {
                 "brand": "bitecool",
@@ -85,6 +89,7 @@
         "currency": "NGN",
         "list_price": "NGN176,401.03",
         "name": "laptop",
+        "reviews": "99",
         "accessories":[
             {
                 "brand": "CHUWI",
@@ -118,6 +123,7 @@
         "currency": "NGN",
         "list_price": "NGN176,401.03",
         "name": "laptop",
+        "reviews": "90",
         "accessories":[
             {
                 "brand": "lenovo",
@@ -150,7 +156,8 @@
         "disc": "-19%",
         "currency": "NGN",
         "list_price": "NGN15,911.46",
-        "name": "bag"
+        "name": "bag",
+        "reviews": "99"
     
     },
 
@@ -164,7 +171,8 @@
         "disc": "-19%",
         "currency": "NGN",
         "list_price": "NGN15,911.46",
-        "name": "bag"
+        "name": "bag",
+        "reviews": "99"
     
     },
 
@@ -178,7 +186,8 @@
         "disc": "-19%",
         "currency": "NGN",
         "list_price": "NGN15,911.46",
-        "name": "bag"
+        "name": "bag",
+        "reviews": "99"
     
     }
 

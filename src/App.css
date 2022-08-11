@@ -33,6 +33,32 @@ gap: 1rem;
   cursor: pointer;
 }
 
+/*single Product style*/
+
+.single__product{
+  border: 0px solid red;
+  width: 50vw;
+ margin: 3rem;
+ display: flex;
+}
+
+/* .product__img{
+  width: 30%;
+  border: 0px solid red;
+  border-right: 0px solid #ccc;
+  padding: 15px;
+} */
+
+.product__right{
+  display: flex;
+  flex-direction: column;
+}
+
+table{
+  border: 0px solid red;
+  width: 270px;
+  padding: 25px 10px;
+}
 
 
 /* .App-link {

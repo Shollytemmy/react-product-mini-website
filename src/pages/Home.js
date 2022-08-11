@@ -3,11 +3,11 @@ import { ProductsList } from '../components/ProductsList'
 
 
 export const Home  = ({products}) => {
-  // console.log(products);
+  console.log(products);
   return (
     <div className='product'>
       {
-        products && products.map((product) => {
+         products.map((product) => {
           return(
             <ProductsList key={product._id}
             id = {product._id}
