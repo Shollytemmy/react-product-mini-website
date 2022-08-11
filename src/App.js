@@ -1,4 +1,5 @@
 import {Routes, Route} from 'react-router-dom'
+import products from './products.json'
 // pages
 import { Navbar } from './components/Navbar';
 import { About } from './pages/About';
@@ -9,13 +10,14 @@ import { Product } from './pages/Products';
 import './App.css';
 
 function App() {
+
   return (
     <>
      <Navbar />
      <div className="container">
      
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/' element={<Home products={products} />} />
         <Route path='about' element={<About />} />
         <Route path='contact' element={<Contact />} />
         <Route path='products' element={<Product />} />

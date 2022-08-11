@@ -1,11 +1,43 @@
+.container{
+  max-width: 1170px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 210px;
+  height: 250px;
+  object-fit: contain;
+}
+
+.product{
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border: 0px solid red;
+  width: 100%;
+gap: 1rem;
+
+}
+
+.product__item{
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px 15px;
+  
+}
+
+.product__item:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
 
 
 
-
-
-.App-link {
+/* .App-link {
   color: #61dafb;
  
-}
+} */
 
 
