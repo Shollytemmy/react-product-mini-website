@@ -3,7 +3,7 @@ import { ProductsList } from '../components/ProductsList'
 
 
 export const Home  = ({products}) => {
-  console.log(products);
+  // console.log(products);
   return (
     <div className='product'>
       {
