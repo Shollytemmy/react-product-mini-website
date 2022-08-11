@@ -6,8 +6,8 @@ export const SingleProducts = ({products}) => {
    
     // console.log(products)
     const {prodID} = useParams()
-     const getProduct_Index = products[prodID - 1]
-     const {image, desc, rating, amount, name} = getProduct_Index 
+     const getProduct_Id = products[prodID - 1]
+     const {image, desc, rating, amount, name} = getProduct_Id 
     //  console.log(hold)
   return (
     <div className='single__product'>
