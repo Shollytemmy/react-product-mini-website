@@ -9,6 +9,7 @@ import { Home } from './pages/Home';
 import { Product } from './pages/Products';
 import './App.css';
 import { SingleProducts } from './pages/SingleProducts';
+import { Footer } from './components/Footer';
 
 function App() {
 
@@ -29,6 +30,7 @@ function App() {
      
 
     </div>
+    <Footer />
     </>
     
   );

@@ -122,6 +122,19 @@ table{
     font-size: 24px;
 }
 
+.form > form{
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 5rem;
+}
+
+.form__input{
+  display: flex;
+  /* padding: 3rem 5rem; */
+  flex-direction: column;
+
+}
+
 /* .App-link {
   color: #61dafb;
  
