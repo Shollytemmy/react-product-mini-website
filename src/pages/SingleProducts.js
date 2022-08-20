@@ -22,15 +22,21 @@ export const SingleProducts = ({products}) => {
         </div>
         <div className="product__right">
             <div className="desc">
-                <p>
+                <p className='desc__text'>
                     {desc}
                 </p>
             </div>
             <div className="items__desc">
-                    <p><span>{brand && <>Brand {brand}</>} </span></p>
-                    <p><span>{rating} ratings | </span> <span>{reviews} answered Questions </span> </p>
-                    <p><span>{disc}</span>  <span><sup>{currency}</sup>{amount}</span></p>
-                    <p><span>{list_price}</span></p>
+                    <p><span className='desc__brand'>{brand && <>Brand {brand}</>} </span></p>
+                    <p className='desc__para'>
+                        <span className='desc__ratings'>{rating} ratings | </span>
+                         <span>{reviews} answered Questions </span> 
+                         </p>
+                    <p className='desc__amount' >
+                        <span>{disc}</span> 
+                         <span className='amount__cur'>  <sup  className='amount__cur'>{currency}</sup>{amount}</span>
+                         </p>
+                    <p> Listing Price:<span className='desc__price'> {list_price}</span></p>
                 </div>
 
                  <div className="accessories__list">

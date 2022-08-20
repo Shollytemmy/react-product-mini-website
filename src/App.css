@@ -60,6 +60,67 @@ table{
   padding: 25px 10px;
 }
 
+.desc{
+  border: 0px solid red;
+  padding: 10px 20px;
+}
+.desc__text{
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: rgb(15, 17, 17);
+}
+
+.items__desc{
+  border: 0px solid red;
+  color: teal;
+  padding: 5px;
+}
+
+.desc__brand{
+
+}
+
+.desc__ratings{
+  /* margin-left: 15px; */
+}
+
+.desc__para span{
+
+  margin-left: 15px;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.desc__amount{
+  border: 0px solid red;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: 24px;
+  color: rgb(15, 17, 17);
+  padding: 10px 20px;
+}
+
+.desc__amount > span{
+  margin-left: 15px;
+}
+
+.desc__amount > span:first-child{
+  color: red;
+}
+
+.amount__cur{
+  font-weight: 500;
+  font-size: 24px;
+  /* border: 1px solid; */
+  padding: 0.5rem;
+}
+
+.desc__price{
+  font-weight: 500;
+    font-size: 24px;
+}
 
 /* .App-link {
   color: #61dafb;
@@ -67,3 +128,12 @@ table{
 } */
 
 
+
+
+
+/*
+font-family: 'Poppins',
+sans-serif;
+font-family: 'Roboto',
+sans-serif;
+*/
